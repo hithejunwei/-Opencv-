@@ -1,0 +1,2 @@
+0.tiff-8.tiff为第1类
+9.tiff-13.tiff为第2类
